@@ -1,3 +1,6 @@
+
+https://user-images.githubusercontent.com/68465807/116428053-d9305d00-a844-11eb-9592-a8e57ecf7588.mp4
+
 ## Background & Objectives
 
 Yesterday, we covered how to select a DOM element, read information on it and update it (text, CSS, etc.). Today, we'll see how we can react to [DOM events](https://developer.mozilla.org/en-US/docs/Web/Events) to create interactive websites.
