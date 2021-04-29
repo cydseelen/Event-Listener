@@ -1,5 +1,5 @@
 # Event Listener
-Play video *with* **sound**
+Play video *with* ***sound***.
 
 https://user-images.githubusercontent.com/68465807/116428053-d9305d00-a844-11eb-9592-a8e57ecf7588.mp4
 
